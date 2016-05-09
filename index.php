@@ -47,7 +47,7 @@ if(isset($_POST['btn-login']))
 <td><button type="submit" name="btn-login">Sign In</button></td>
 </tr>
 <tr>
-<td><a href="...classes/register.php">Sign Up Here</a></td>
+<td><a href="classes/register.php">Sign Up Here</a></td>
 </tr>
 </table>
 </form>
